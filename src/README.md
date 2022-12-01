@@ -14,7 +14,7 @@ PEARSON EDUCACIÓN, México, 2009
 
 ISBN: 978-607-442-046-3
 
-Area: Computación
+Area: Computacion
 
 Formato: 18.5 × 23.5 cm Páginas: 1104
 
